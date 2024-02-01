@@ -1,0 +1,11 @@
+c:\users\administrator\documents\visual studio 2015\Projects\Function\Function\bin\Debug\Function.exe.config
+c:\users\administrator\documents\visual studio 2015\Projects\Function\Function\bin\Debug\Function.exe
+c:\users\administrator\documents\visual studio 2015\Projects\Function\Function\bin\Debug\Function.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\Function\Function\bin\Debug\Function.xml
+c:\users\administrator\documents\visual studio 2015\Projects\Function\Function\obj\Debug\Function.vbprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2015\Projects\Function\Function\obj\Debug\Function.Form1.resources
+c:\users\administrator\documents\visual studio 2015\Projects\Function\Function\obj\Debug\Function.Resources.resources
+c:\users\administrator\documents\visual studio 2015\Projects\Function\Function\obj\Debug\Function.vbproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2015\Projects\Function\Function\obj\Debug\Function.exe
+c:\users\administrator\documents\visual studio 2015\Projects\Function\Function\obj\Debug\Function.xml
+c:\users\administrator\documents\visual studio 2015\Projects\Function\Function\obj\Debug\Function.pdb
